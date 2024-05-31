@@ -1,2 +1,4 @@
 let p = document.querySelector("#demo");
-p.innerHTML = "hello";
+const pTag = document.createElement("p");
+pTag.textContent = "Hello World";
+document.body.appendChild(pTag);
