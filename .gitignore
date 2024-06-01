@@ -1,0 +1,8 @@
+# writing one comment in .gitignore file
+node_modules
+*.doc
+
+build/
+
+.env
+.env.local
