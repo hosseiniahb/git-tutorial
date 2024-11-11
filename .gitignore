@@ -7,5 +7,6 @@ build/
 .env
 .env*.local
 
+.log/*
 public/
 _next/
